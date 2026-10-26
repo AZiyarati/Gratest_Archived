@@ -1,3 +1,5 @@
+# I'm archiving this project, because it wasn't well organized, i'm recreating this one but better, [here is the new one](https://github.com/AZiyarati/Gratest).
+
 # FPC — First-Person Controller
 
 A first-person controller for Godot 4, built one small piece at a time by a
